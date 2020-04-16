@@ -1,0 +1,25 @@
+﻿Nome;Tipo;Prop. Auxilia Digestão;Prop. Alivia Dor;Prop. Calmante;Prop. Revigorante;Prop. Anti-Inflamatório;Prop. Anti-gripal;Aroma;Sabor;Intensidade;Preço/kg;Local Compra
+Chá Preto;Chá;Não;Não;Não;Sim;Sim;Não;Neutro;Característico;Médio;;
+Chá Verde;Chá;Sim;Não;Não;Sim;Sim;Não;Neutro;Característico;Médio;;
+Sálvia;Folha;Não;Não;Sim;Não;Não;Sim;Vegetal;Característico;Marcante;;
+Erva Cidreira;Folha;Sim;Não;Sim;Não;Não;Sim;Vegetal;Característico;Médio;;
+Carqueja;Folha;Sim;Não;Não;Não;Não;Não;Neutro;Amargo;Marcante;17,9;Armazém Cerealista
+Menta;Folha;Não;Não;Não;Não;Não;Não;Vegetal;Refrescante;Médio;;
+Erva Doce;Semente;Sim;Não;Não;Não;Sim;Sim;Adocicado;Doce;Médio;;
+Hortelã;Folha;Sim;Sim;Sim;Sim;Não;Sim;Vegetal;Refrescante;Médio;;
+Alecrim;Folha;Não;Sim;Não;Sim;Não;Não;Vegetal;Refrescante;Marcante;;
+Canela;Casca;Sim;Não;Não;Não;Não;Sim;Condimentado;Característico;Médio;;
+Alcaçuz;Raíz;Sim;Não;Não;Sim;Não;Sim;Adocicado;Doce;Médio;;
+Espinheira Santa;Folha;Sim;Não;Não;Não;Não;Não;Neutro;Neutro;Suave;59;Peri Peri
+Folha de Amora;Folha;Não;Sim;Não;Não;Não;Sim;Neutro;Neutro;Suave;69;Peri Peri
+Sene;Folha;Sim;Não;Não;Não;Não;Não;Neutro;Neutro;Suave;59;Peri Peri
+Hibisco;Flor;Sim;Não;Não;Não;Sim;Não;Floral;Azedo;Marcante;;
+Jasmim;Flor;Não;Sim;Sim;Não;Não;Não;Floral;Doce;Marcante;;
+Camomila;Flor;Sim;Não;Sim;Não;Não;Sim;Floral;Doce;Médio;;
+Lavanda;Flor;Sim;Sim;Sim;Não;Não;Sim;Floral;Doce;Marcante;;
+Maçã;Fruta;Não;Não;Não;Não;Não;Não;Frutado;Doce;Suave;;
+Gengibre;Raíz;Sim;Sim;Não;Não;Sim;Sim;Condimentado;Refrescante;Suave;;
+Guaraná;Semente;Não;Sim;Não;Sim;Não;Não;Neutro;Característico;Suave;;
+Cardamomo;Semente;Sim;Não;Não;Não;Sim;Sim;Condimentado;Característico;Médio;;
+Mate;Folha;Não;Não;Não;Sim;Não;Não;Neutro;Característico;Médio;;
+Cramberry;Fruta;Não;Não;Não;Não;Sim;Não;Frutado;Doce;Médio;49,99;Peri Peri
